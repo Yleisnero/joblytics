@@ -1,6 +1,6 @@
 Type,Full Remote,Munich,Vienna,Regensburg,Total
 Applications,29,60,2,3,94
-Rejections,24,29,0,3,55
+Rejections,24,28,0,3,55
 Did Not Accept,1,11,1,0,13
 Interview,3,14,1,0,18
 Jobs,0,1,0,0,1
